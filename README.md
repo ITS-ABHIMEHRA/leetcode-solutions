@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [3498-reverse-degree-of-a-string](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0112-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
