@@ -31,5 +31,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
