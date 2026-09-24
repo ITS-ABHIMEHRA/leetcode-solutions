@@ -37,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0078-subsets) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
