@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0078-subsets) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Hash Table
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
