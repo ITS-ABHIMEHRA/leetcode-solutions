@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
