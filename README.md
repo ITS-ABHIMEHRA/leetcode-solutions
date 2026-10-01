@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0804-unique-morse-code-words](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
