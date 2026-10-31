@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0078-subsets) |
 | [0804-unique-morse-code-words](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0804-unique-morse-code-words](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Stack
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ITS-ABHIMEHRA/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
